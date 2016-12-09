@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     // DROPBOX API 2.0 CERBER FILE RESTORE
     // PHILIPPE-ANTOINE PLANTE
     // 2016-12-08
-    // THIS PROGRAM REMOVES .hta README files and encryped Files. It restores files based on file history revision. 
+    // THIS PROGRAM REMOVES .hta README files and encryped Files. It restores files based on last file history revision. 
 
     class Program
     {
