@@ -11,6 +11,7 @@ namespace ConsoleApplication1
     // PHILIPPE-ANTOINE PLANTE
     // 2016-12-08
     // THIS PROGRAM REMOVES .hta README files and encryped Files. It restores files based on last file history revision. 
+    // any questions support@syncsolutions.ca
 
     class Program
     {
